@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+
+# Runtime data
+builds.json
+builds.json.tmp
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+bin/
+.classpath
+.project
+.settings/
+
+# Plan workspace
+.superpowers/
